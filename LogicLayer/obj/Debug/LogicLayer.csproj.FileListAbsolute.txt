@@ -1,0 +1,11 @@
+C:\Users\oguzh\source\repos\NKatmanliMimari1\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\oguzh\source\repos\NKatmanliMimari1\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\oguzh\source\repos\NKatmanliMimari1\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\oguzh\source\repos\NKatmanliMimari1\LogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\oguzh\source\repos\NKatmanliMimari1\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\oguzh\source\repos\NKatmanliMimari1\LogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\oguzh\source\repos\NKatmanliMimari1\LogicLayer\obj\Debug\LogicLayer.csproj.AssemblyReference.cache
+C:\Users\oguzh\source\repos\NKatmanliMimari1\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\source\repos\NKatmanliMimari1\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+C:\Users\oguzh\source\repos\NKatmanliMimari1\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\oguzh\source\repos\NKatmanliMimari1\LogicLayer\obj\Debug\LogicLayer.pdb
